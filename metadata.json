@@ -1,0 +1,6 @@
+{
+  "name": "VozMestre",
+  "description": "Estúdio de clonagem prosódica e narração humana por voz de referência.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
